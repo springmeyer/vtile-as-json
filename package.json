@@ -1,0 +1,11 @@
+{
+    "name": "vtile-proxy",
+    "version": "0.0.4",
+    "description": "Vector tile pbf to GeoJSON proxy",
+    "dependencies"  : {
+        "express": "3.x",
+        "request": "2.x",
+        "mapnik": "https://github.com/mapnik/node-mapnik/tarball/vector-tile",
+        "mkdirp": "*"
+    }
+}
